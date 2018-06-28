@@ -19,7 +19,7 @@ def speak_to_grandma(phrase)
   
  #   elsif phrase == "WHAT DID YOU EAT TODAY?".upcase
   #  puts "NO, NOT SINCE 1938!"
-  #else phrase == "I LOVE YOU GRANDMA!"
-  #  puts "I LOVE YOU TOO PUMPKIN!"
+  else phrase == "I LOVE YOU GRANDMA!"
+  return "I LOVE YOU TOO PUMPKIN!"
   #end
 end
